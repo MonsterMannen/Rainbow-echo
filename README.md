@@ -1,15 +1,30 @@
-# Rainbow-echo
-colored output script  
-weird shell script syntax
+# 🌈 Rainbow-echo 
 
-### Usage
+### Description
+**Rainbow-echo** makes text look beautiful.  
+Created this to try shell scripting. weird syntax.
 
-```sh
+### Usage  
+Print rainbow text
+```
 sh rainbow-echo.sh some text here :^)
 ```
 
-### Examples
+Print rainbow text from file
+```
+sh rainbow-echo.sh -f text.txt
+```
 
+### Options
+```
+-h      print help
+-f      print content of a file
+-v      print program version
+```
+
+### Examples
 ![img1](https://i.imgur.com/msYCWIw.png "example1")
 
 ![img2](https://i.imgur.com/zB4k1D2.png "example2")
+
+TODO update these
