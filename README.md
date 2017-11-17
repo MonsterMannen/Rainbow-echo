@@ -25,6 +25,5 @@ sh rainbow-echo.sh -f text.txt
 ### Examples
 ![img1](https://i.imgur.com/msYCWIw.png "example1")
 
-![img2](https://i.imgur.com/zB4k1D2.png "example2")
+![img2](https://i.imgur.com/YorVhkl.png "example2")
 
-TODO update these
